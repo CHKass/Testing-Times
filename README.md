@@ -1,2 +1,2 @@
 # Testing-Times
-Testing git and gitHub ways
+Testing Git, GitHub and GitHub Desktop ways.
