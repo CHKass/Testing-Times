@@ -1,4 +1,4 @@
 # Testing-Times
 Testing Git, GitHub and GitHub Desktop ways.
 
-A Second README edit requiring a comment.
+These are testing times for our Dear Leader, Teresa May. We at Testing-Times lend her our full support!
